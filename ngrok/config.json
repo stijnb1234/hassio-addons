@@ -56,5 +56,6 @@
         "metadata": "str?"
       }
     ]
-  }
+  },
+  "init": false
 }
